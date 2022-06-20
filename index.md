@@ -1,37 +1,101 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+  <link rel="stylesheet" href="stylesheet.css">
 
-You can use the [editor on GitHub](https://github.com/ddeo604/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
+<body>
+<div class="grid">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="GoteLance.svg" class="piece">
+<img src="GoteKnight.svg" class="piece">
+<img src="GoteSilver.svg" class="piece">
+<img src="GoteGold.svg" class="piece">
+<img src="GoteKing.svg" class="piece">
+<img src="GoteGold.svg" class="piece">
+<img src="GotePromotedSilver.svg" class="piece">
+<img src="GotePromotedKnight.svg" class="piece">
+<img src="GotePromotedLance.svg" class="piece">
 
-### Markdown
+<div class="epiece"></div>
+<img src="GoteRook.svg" class="piece">
+<img src="GoteDragon.svg" class="piece">
+<div class="epiece"></div>
+<img src="GoteJewel.svg" class="piece">
+<div class="epiece"></div>
+<img src="GoteHorse.svg" class="piece">
+<img src="GoteBishop.svg" class="piece">
+<div class="epiece"></div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="GotePawn.svg" class="piece">
+<img src="GotePawn.svg" class="piece">
+<img src="GotePawn.svg" class="piece">
+<img src="GotePawn.svg" class="piece">
+<img src="GotePawn.svg" class="piece">
+<img src="GotePawn.svg" class="piece">
+<img src="GotePawn.svg" class="piece">
+<img src="GotePawn.svg" class="piece">
+<img src="GoteTokin.svg" class="piece">
 
-```markdown
-Syntax highlighted code block
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
 
-# Header 1
-## Header 2
-### Header 3
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
 
-- Bulleted
-- List
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
+<div class="epiece"></div>
 
-1. Numbered
-2. List
+<img src="SentePawn.svg" class="piece">
+<img src="SentePawn.svg" class="piece">
+<img src="SentePawn.svg" class="piece">
+<img src="SentePawn.svg" class="piece">
+<img src="SentePawn.svg" class="piece">
+<img src="SentePawn.svg" class="piece">
+<img src="SentePawn.svg" class="piece">
+<img src="SentePawn.svg" class="piece">
+<img src="SenteTokin.svg" class="piece">
 
-**Bold** and _Italic_ and `Code` text
+<div class="epiece"></div>
+<img src="SenteBishop.svg" class="piece">
+<img src="SenteHorse.svg" class="piece">
+<div class="epiece"></div>
+<img src="SenteJewel.svg" class="piece">
+<div class="epiece"></div>
+<img src="SenteDragon.svg" class="piece">
+<img src="SenteRook.svg" class="piece">
+<div class="epiece"></div>
 
-[Link](url) and ![Image](src)
-```
+<img src="SenteLance.svg" class="piece">
+<img src="SenteKnight.svg" class="piece">
+<img src="SenteSilver.svg" class="piece">
+<img src="SenteGold.svg" class="piece">
+<img src="SenteKing.svg" class="piece">
+<img src="SenteGold.svg" class="piece">
+<img src="SentePromotedSilver.svg" class="piece">
+<img src="SentePromotedKnight.svg" class="piece">
+<img src="SentePromotedLance.svg" class="piece">
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ddeo604/test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</div>
+</body>
+</html>
